@@ -1234,3 +1234,27 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/ZoiZ..zip
         description: 
         tags: 
+        
+  - category: 愚人节官服
+    icon: linecons-doc
+    links:
+      - title: Phigros-2020（安卓）
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://load-balance.minasan.xyz/com.PigeonGames.Phigros/com.PigeonGames.Phigros_1.4.1.apk
+        description: 
+        tags: 
+      - title: Phigros-2021（安卓）
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://load-balance.minasan.xyz/com.PigeonGames.Phigros/com.PigeonGames.Phigros_1.6.5.apk
+        description: 
+        tags:
+      - title: Phigros-2022（安卓）
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://load-balance.minasan.xyz/com.PigeonGames.Phigros/com.PigeonGames.Phigros_2.1.4.apk
+        description: 
+        tags: 
+      - title: Phigros-2023（安卓）
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://load-balance.minasan.xyz/com.PigeonGames.Phigros/com.PigeonGames.Phigros_2.5.1.apk
+        description: 
+        tags: 
