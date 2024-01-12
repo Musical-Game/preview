@@ -45,37 +45,62 @@ categories:
   - category: 新谱发布
     icon: linecons-star
     links:
-      - title: Alice.In.VOODOOLAND
+      - title: Astaroth
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Astaroth.zip
         description: 
         tags: 
-      - title: Level.Up
+      - title: Avantgarde
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
-        description: 
-        tags:
-      - title: Harika
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Harika.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Avantgarde.zip
         description: 
         tags: 
-      - title: shuhanwushuang
+      - title: Dance.In.The.Game
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/shuhanwushuang.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Dance.In.The.Game.zip
         description: 
         tags: 
-      - title: xiaguang
+      - title: Deep.Sea.Girl
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/xiaguang.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Deep.Sea.Girl.zip
         description: 
         tags: 
-      - title: Under.the.sea
+      - title: Good-bye.declaration
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Under.the.sea.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Good-bye.declaration.zip
         description: 
-        tags:
-        
+        tags: 
+      - title: Guitar.and.solitude.and.the.blue.planet
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Guitar.and.solitude.and.the.blue.planet.zip
+        description: 
+        tags: 
+      - title: HelloMorning
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/HelloMorning.zip
+        description: 
+        tags: 
+      - title: HERO
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/HERO.zip
+        description: 
+        tags: 
+      - title: Hey.wake.up
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Hey.wake.up.zip
+        description: 
+        tags: 
+      - title: KICK.BACK
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/KICK.BACK.zip
+        description: 
+        tags: 
+      - title: kurakura
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/kurakura.zip
+        description: 
+        tags: 
+              
   - category: 4k专区
     hide_menu: true
     icon: linecons-star
@@ -1234,6 +1259,36 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/ZoiZ..zip
         description: 
         tags: 
+       - title: Alice.In.VOODOOLAND
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
+        description: 
+        tags: 
+      - title: Level.Up
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
+        description: 
+        tags:
+      - title: Harika
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Harika.zip
+        description: 
+        tags: 
+      - title: shuhanwushuang
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/shuhanwushuang.zip
+        description: 
+        tags: 
+      - title: xiaguang
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/xiaguang.zip
+        description: 
+        tags: 
+      - title: Under.the.sea
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Under.the.sea.zip
+        description: 
+        tags:
         
   - category: 愚人节官服
     icon: linecons-doc
