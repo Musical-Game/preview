@@ -23,7 +23,7 @@ github_url: https://github.com/yinyoushe/
 # 网站 about 链接（可选）
 about_url: https://www.yinyoushe.eu.org/
 # 提交链接的 URL
-link_submission_url: https://cmi.minasan.xyz/Phira/Phira_v0.5.2.apk
+link_submission_url: https://load-balance.minasan.xyz/Phira/Phira_v0.6.1.apk
 # 网站友情链接（可选）
 friendship_links_url: https://yinyoushe.github.io/simulator/
 # Google Analytics Code（可选）
@@ -45,36 +45,6 @@ categories:
   - category: 新谱发布
     icon: linecons-star
     links:
-      - title: Alice.In.VOODOOLAND
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
-        description: 
-        tags: 
-      - title: Level.Up
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
-        description: 
-        tags:
-      - title: Harika
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Harika.zip
-        description: 
-        tags: 
-      - title: shuhanwushuang
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/shuhanwushuang.zip
-        description: 
-        tags: 
-      - title: xiaguang
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/xiaguang.zip
-        description: 
-        tags: 
-      - title: Under.the.sea
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Under.the.sea.zip
-        description: 
-        tags:
       - title: Astaroth
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Astaroth.zip
@@ -1289,6 +1259,36 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/ZoiZ..zip
         description: 
         tags: 
+      - title: Alice.In.VOODOOLAND
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
+        description: 
+        tags: 
+      - title: Level.Up
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
+        description: 
+        tags:
+      - title: Harika
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Harika.zip
+        description: 
+        tags: 
+      - title: shuhanwushuang
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/shuhanwushuang.zip
+        description: 
+        tags: 
+      - title: xiaguang
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/xiaguang.zip
+        description: 
+        tags: 
+      - title: Under.the.sea
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Under.the.sea.zip
+        description: 
+        tags:
         
   - category: 愚人节官服
     icon: linecons-doc
