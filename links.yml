@@ -1156,7 +1156,7 @@ categories:
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/qunqing.zip
         description: 
         tags: 
-        - title: Re_Nascence.200ms
+      - title: Re_Nascence.200ms
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/Re_Nascence.200ms.zip
         description: 
@@ -1446,7 +1446,12 @@ categories:
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/Under.the.sea.zip
         description: 
         tags: 
-      - title: unknow2
+      - title: unknown1
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/unknown.zip
+        description: 
+        tags: 
+      - title: unknown2
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/unknow2.zip
         description: 
@@ -1456,14 +1461,9 @@ categories:
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/unknow3.zip
         description: 
         tags: 
-      - title: unknow4
+      - title: unknown4
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/unknow4.zip
-        description: 
-        tags: 
-      - title: unknown
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/unknown.zip
         description: 
         tags: 
       - title: unknown5
@@ -1564,6 +1564,66 @@ categories:
       - title: XODUS.New
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/XODUS.New.zip
+        description: 
+        tags: 
+      - title: yangguangcaihongxiaobaima
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/yangguangcaihongxiaobaima.zip
+        description: 
+        tags: 
+      - title: yaoshimenglinenggaibianshijiedehua
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/yaoshimenglinenggaibianshijiedehua.zip
+        description: 
+        tags: 
+      - title: yixiaobiming
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/yixiaobiming.zip
+        description: 
+        tags: 
+      - title: You.are.the.Miserable.IN
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/You.are.the.Miserable.IN.zip
+        description: 
+        tags: 
+      - title: YOU
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/YOU.zip
+        description: 
+        tags: 
+      - title: YUMEND.IN
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/YUMEND.IN.zip
+        description: 
+        tags: 
+      - title: yunnvhai
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/yunnvhai.zip
+        description: 
+        tags: 
+      - title: zhemekeaizhenmeban
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/zhemekeaizhenmeban.zip
+        description: 
+        tags: 
+      - title: zhizhuximonoply
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/zhizhuximonoply.zip
+        description: 
+        tags: 
+      - title: zhongdewuji
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/zhongdewuji.zip
+        description: 
+        tags: 
+      - title: zuixuanminzufeng
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/zuixuanminzufeng.zip
+        description: 
+        tags: 
+      - title: zuixunminzufeng
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://yys02.eu.org/github.com/yinyoushe/score/releases/download/v0.2.0/zuixunminzufeng.zip
         description: 
         tags: 
         
