@@ -13,9 +13,9 @@ description: 一个由音游社支持的谱面下载站点。
 # 网址导航页面 URL（可选）
 url: https://www.mugassn.com
 # Favicon（可选）
-shortcut_icon: https://img.mugassn.com/r1.jpeg
+shortcut_icon: ttps://img.mugassn.com/r2.jpg
 # 社交分享图片（可选）
-og_img: https://img.mugassn.com/r1.jpeg
+og_img: ttps://img.mugassn.com/r2.jpg
 # 主页 URL
 home_url: https://www.mugassn.com
 # GitHub 链接（可选）
