@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -55,31 +54,6 @@
       }
       .logo h1{margin-top: 0px; margin-bottom: 0px}
     }
-    .search-form {
-        position: absolute;
-        top: 15px;
-        right: 15px;
-    }
-
-    .search-form input[type="text"] {
-        width: 200px;
-        padding: 5px;
-        border: 1px solid #ccc;
-        border-radius: 3px;
-    }
-
-    .search-form button {
-        padding: 5px 10px;
-        background-color: #007bff;
-        color: #fff;
-        border: none;
-        border-radius: 3px;
-        cursor: pointer;
-    }
-
-    .search-form button:hover {
-        background-color: #0056b3;
-    }
     </style>
 </head>
     <script>
@@ -90,15 +64,12 @@
       "https://verify.mugassn.com",
       "https://verify-c6u.pages.dev"
     ];
-
     // 获取当前文档的引用来源
     var referrer = document.referrer;
-
     // 检查引用来源是否在允许的来源列表中
     var isAllowed = allowedReferrers.some(function(allowedReferrer) {
       return referrer.startsWith(allowedReferrer);
     });
-
     if (isAllowed) {
       // 来源匹配，允许访问
       console.log("身份验证通过，允许访问。");
@@ -126,11 +97,6 @@
                             <i class="fa-bars"></i>
                         </a>
                     </div>
-                    <!-- Search Form -->
-                    <form class="search-form" action="/search" method="GET">
-                        <input type="text" name="q" placeholder="搜索...">
-                        <button type="submit"><i class="fa-search"></i></button>
-                    </form>
                 </header>
                 <ul id="main-menu" class="main-menu">
                     <li>
@@ -184,6 +150,7 @@
                     <li>
                         <a href="https://www.mugassn.com" target="_blank">
                             <i class="linecons-lightbulb"></i>
+                            <span class="tooltip-blue">关于Musical Game Association</span>
                             <span class="tooltip-blue">关于Mugassn音游社</span>
                             <span class="label label-Primary pull-right hidden-collapsed"></span>
                         </a>
@@ -214,7 +181,6 @@
                     </li>
                 </ul>
             </nav>
-
             <!-- 新谱发布 -->
             <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="新谱发布"></i>新谱发布</h4>
             <div class="row">
@@ -6399,7 +6365,6 @@
             </div>
             <br />
             <!--END 皮肤按键 -->
-
             <!-- Main Footer -->
             <!-- Choose between footer styles: "footer-type-1" or "footer-type-2" -->
             <!-- Add class "sticky" to  always stick the footer to the end of page (if page contents is small) -->
@@ -6429,14 +6394,12 @@
          //img lazy loaded
          const observer = lozad();
          observer.observe();
-
         $(document).on('click', '.has-sub', function(){
             var _this = $(this)
             if(!$(this).hasClass('expanded')) {
                setTimeout(function(){
                     _this.find('ul').attr("style","")
                }, 300);
-
             } else {
                 $('.has-sub ul').each(function(id,ele){
                     var _that = $(this)
@@ -6461,9 +6424,7 @@
         });
         $("a.smooth").click(function(ev) {
             ev.preventDefault();
-
             var offset = $(".mobile-menu-toggle").is(":visible") ? 90 : 25;
-
             public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
             ps_destroy();
             $("html, body").animate({
@@ -6475,7 +6436,6 @@
         });
         return false;
     });
-
     var href = "";
     var pos = 0;
     $("a.smooth").click(function(e) {
@@ -6487,7 +6447,6 @@
         href = $(this).attr("href");
         pos = $(href).position().top - 30;
     });
-
     // 卡片点击
     $(".xe-widget.xe-conversations a").on('click', function(e){
       // 禁止 a 标签的默认点击事件，用 card 的点击事件代替
